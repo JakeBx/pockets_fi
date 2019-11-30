@@ -1,0 +1,8 @@
+requests
+dash
+dash_core_components
+dash_html_components
+pandas
+plotly
+gunicorn
+fs-gcsfs

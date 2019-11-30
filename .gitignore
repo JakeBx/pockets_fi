@@ -1,3 +1,10 @@
+# Inclusions
+.DS_Store
+.idea/
+dashboard/config.json
+dashboard/pockets-portfolio-ff30506b2f97.json
+notebooks/app-data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
